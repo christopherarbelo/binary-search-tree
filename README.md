@@ -1,4 +1,8 @@
 # Binary Search Tree Project
+
+## Description
+Implementation of binary search tree.
+
 ## Features
 * Breadth first traversal
 * Depth first traversal
